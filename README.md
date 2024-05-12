@@ -1,12 +1,37 @@
 ## Hi 👋, I'm a Senior Full Stack Developer & Software Engineer  
   
+I create high-quality software and I’m loving it 💫
+
+As a skilled full-stack developer with years of experience under my belt, I am confident in my ability to provide top-notch solutions to meet your business needs. My attention to detail, strong communication skills, and ability to work collaboratively make me a valuable asset to any project.
 
 
+SKILLS:
 
-### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+📌JS Frameworks: React.js, Nest.js, Next.js, React Native
+📌Backend: Node.js, MySQL, MongoDB, Postgres, GraphQL, RESTful API, Serverless
+📌Frontend: TypeScript, Redux, Redux Toolkit, SSR/CSR, Redux-Query, RTK Query, Storybook, SASS/LESS, CSS3/HTML5
+📌API Integration: Stripe, AWS [S3, EC2, SES, SQS, Lambda] Google, Facebook, PayPal
+📌Non-Technical: Agile, JIRA, ClickUp, Trello, WebStorm, VS Code, Redmine, GitHub
+
+WHEN WORKING WITH ME, YOU CAN EXPECT:
+
+✅ A commitment to excellence: I take pride in delivering high-quality work that meets and exceeds your expectations.
+✅ Clear communication: I understand the importance of staying in touch and keeping you informed every step of the way.
+✅ Timely delivery: I respect deadlines and will work diligently to ensure that your project is completed on time.
+✅ Attention to detail: I am meticulous in my work, paying close attention to every detail. I’m also very good at taking notes of everything that is important.
+✅ A Team Spirit approach: I’m team player and I believe that great things are not built by just single person. I’m very collaborative with every stakeholder or team member.
+
+
+⚠️ My TOP 5 - Don’ts:
+
+- I don’t miss deadlines
+- I don’t work with more than 1 project/client
+- I don’t say I know something when actually don’t.
+- I don’t work with gambling or adult content projects
+- I don’t submit a proposal until I’ve read it and I’m sure I can do it.
+
+If that sounds well to you - let’s talk then 😉
   
 
 <br/>  
