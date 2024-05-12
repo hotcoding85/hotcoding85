@@ -8,19 +8,19 @@ As a skilled full-stack developer with years of experience under my belt, I am c
 SKILLS:
 
 
-📌JS Frameworks: React.js, Nest.js, Next.js, React Native
-📌Backend: Node.js, MySQL, MongoDB, Postgres, GraphQL, RESTful API, Serverless
-📌Frontend: TypeScript, Redux, Redux Toolkit, SSR/CSR, Redux-Query, RTK Query, Storybook, SASS/LESS, CSS3/HTML5
-📌API Integration: Stripe, AWS [S3, EC2, SES, SQS, Lambda] Google, Facebook, PayPal
-📌Non-Technical: Agile, JIRA, ClickUp, Trello, WebStorm, VS Code, Redmine, GitHub
+📌JS Frameworks: React.js, Nest.js, Next.js, React Native<br>
+📌Backend: Node.js, MySQL, MongoDB, Postgres, GraphQL, RESTful API, Serverless<br>
+📌Frontend: TypeScript, Redux, Redux Toolkit, SSR/CSR, Redux-Query, RTK Query, Storybook, SASS/LESS, CSS3/HTML5<br>
+📌API Integration: Stripe, AWS [S3, EC2, SES, SQS, Lambda] Google, Facebook, PayPal<br>
+📌Non-Technical: Agile, JIRA, ClickUp, Trello, WebStorm, VS Code, Redmine, GitHub<br>
 
 WHEN WORKING WITH ME, YOU CAN EXPECT:
 
-✅ A commitment to excellence: I take pride in delivering high-quality work that meets and exceeds your expectations.
-✅ Clear communication: I understand the importance of staying in touch and keeping you informed every step of the way.
-✅ Timely delivery: I respect deadlines and will work diligently to ensure that your project is completed on time.
-✅ Attention to detail: I am meticulous in my work, paying close attention to every detail. I’m also very good at taking notes of everything that is important.
-✅ A Team Spirit approach: I’m team player and I believe that great things are not built by just single person. I’m very collaborative with every stakeholder or team member.
+✅ A commitment to excellence: I take pride in delivering high-quality work that meets and exceeds your expectations.<br>
+✅ Clear communication: I understand the importance of staying in touch and keeping you informed every step of the way.<br>
+✅ Timely delivery: I respect deadlines and will work diligently to ensure that your project is completed on time.<br>
+✅ Attention to detail: I am meticulous in my work, paying close attention to every detail. I’m also very good at taking notes of everything that is important.<br>
+✅ A Team Spirit approach: I’m team player and I believe that great things are not built by just single person. I’m very collaborative with every stakeholder or team member.<br>
 
 
 ⚠️ My TOP 5 - Don’ts:
