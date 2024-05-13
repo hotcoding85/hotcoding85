@@ -8,8 +8,8 @@ As a skilled full-stack developer with years of experience under my belt, I am c
 SKILLS:
 
 
-📌JS Frameworks: React.js, Nest.js, Next.js, React Native<br>
-📌Backend: Node.js, MySQL, MongoDB, Postgres, GraphQL, RESTful API, Serverless<br>
+📌JS Frameworks: React.js, Nest.js, Next.js, Vue.js, Anguar.js<br>
+📌Backend: R, Go, Rust, Node.js, MySQL, MongoDB, Postgres, GraphQL, RESTful API, Serverless<br>
 📌Frontend: TypeScript, Redux, Redux Toolkit, SSR/CSR, Redux-Query, RTK Query, Storybook, SASS/LESS, CSS3/HTML5<br>
 📌API Integration: Stripe, AWS [S3, EC2, SES, SQS, Lambda] Google, Facebook, PayPal<br>
 📌Non-Technical: Agile, JIRA, ClickUp, Trello, WebStorm, VS Code, Redmine, GitHub<br>
@@ -81,6 +81,9 @@ If that sounds well to you - let’s talk then 😉
 <a href="https://backbonejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/backbonejs-original-wordmark.svg" alt="Backbone.js" height="25" /></a>  
 <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="25" /></a>  
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="25" /></a>  
+<a href="https://r.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.png" alt="R" height="25" /></a>  
+<a href="https://go.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go.png" alt="Go" height="25" /></a>  
+<a href="https://rust.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust.png" alt="Rust" height="25" /></a>  
 </div>  
 
 <br/>  
