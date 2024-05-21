@@ -56,6 +56,6 @@ I create high-quality software and I’m loving it 💫<br><br>As a skilled full
 ![](https://github-profile-trophy.vercel.app/?username=hotcoding85&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hotcoding85&icon=7&color=0)](https://visitcount.itsvg.in)
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
