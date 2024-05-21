@@ -55,12 +55,6 @@ I create high-quality software and I’m loving it 💫<br><br>As a skilled full
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hotcoding85&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=hotcoding85&icon=7&color=0)](https://visitcount.itsvg.in)
 
