@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/hotcoding85"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer!;Blockchain%20Developer&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/hotcoding85"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Engineer!;Blockchain%Engineer&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
 </p>
 
 # 💫 About Me:
