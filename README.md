@@ -59,14 +59,6 @@ ensuring client satisfaction and project success<br><br><br>SKILLS:<br><br><br>�
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hotcoding85&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hotcoding85&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hotcoding85&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hotcoding85&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge" />
 
