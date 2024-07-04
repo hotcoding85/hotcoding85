@@ -11,7 +11,7 @@ Consistently deliver high-quality code, meet project deadlines, and adapt to cha
 ensuring client satisfaction and project success<br><br><br>SKILLS:<br><br><br>📌 Languages & Frameworks: JavaScript, TypeScript, PHP, Python, .NET, ASP.NET, C#, Ruby, Java<br><br>
 📌 Front-End: React, Vue, Angular, Next.js, Nuxt.js<br><br>
 📌 Back-End: Node.js, Express, Nest.js, Laravel, Symfony, Flask, Django, FastAPI, Spring Boot<br><br>
-📌 Blockchain: Bitcoin, Ethereum, Solana, Solidity, Web3, Smart Contract, Web3<br><br>
+📌 Blockchain: Bitcoin, Ethereum, Solana, Solidity, Web3, Smart Contract<br><br>
 📌 Databases: MySQL, PostgreSQL, MongoDB, DynamoDB<br><br>
 📌 DevOps: Amazon Web Services (AWS), Docker, Kubernetes, Redis<br><br>
 📌 Project Management Tools: Jira, Asana, Trello<br><br>
