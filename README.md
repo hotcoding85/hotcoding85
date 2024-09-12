@@ -3,9 +3,6 @@
 </p>
 
 # 💫 About Me:
-This is Abraham David Garcia.<br>
-Email: abrahamdavgarc87@outlook.com
-
 I create high-quality software and I’m loving it 💫<br><br>Seasoned Senior Software Engineer with a proven track record of delivering robust and innovative
 solutions. Possess a strong foundation in both front-end and back-end development, and have
 successfully contributed to the development of numerous projects ranging from e-commerce
