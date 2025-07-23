@@ -8,7 +8,7 @@ solutions. Possess a strong foundation in both front-end and back-end developmen
 successfully contributed to the development of numerous projects ranging from e-commerce
 platforms and content management systems to custom software solutions for diverse industries.
 Consistently deliver high-quality code, meet project deadlines, and adapt to changing requirements,
-ensuring client satisfaction and project success<br><br><br>SKILLS:<br><br><br>📌 Languages & Frameworks: JavaScript, TypeScript, PHP, Python, .NET, ASP.NET, C#, Ruby, Java<br><br>
+ensuring client satisfaction and project success<br><br><br>SKILLS:<br><br><br>📌 Languages & Frameworks: JavaScript, TypeScript, PHP, Python, Go, Rust, Ruby, Java<br><br>
 📌 Front-End: React, Vue, Angular, Next.js, Nuxt.js<br><br>
 📌 Back-End: Node.js, Express, Nest.js, Laravel, Symfony, Flask, Django, FastAPI, Spring Boot<br><br>
 📌 Blockchain: Bitcoin, Ethereum, Solana, Solidity, Web3, Smart Contract<br><br>
