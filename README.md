@@ -2,20 +2,44 @@
   <a href="https://github.com/hotcoding85"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Engineer!;AI%20Engineer!;Blockchain%20Engineer!&font=Pacifico&center=true&width=650&height=120&color=009999&vCenter=true&size=45%22"></a>
 </p>
 
-# 💫 About Me:
-I create high-quality software and I’m loving it 💫<br><br>Seasoned Senior Software Engineer with a proven track record of delivering robust and innovative
-solutions. Possess a strong foundation in both front-end and back-end development, and have
-successfully contributed to the development of numerous projects ranging from e-commerce
-platforms and content management systems to custom software solutions for diverse industries.
-Consistently deliver high-quality code, meet project deadlines, and adapt to changing requirements,
-ensuring client satisfaction and project success<br><br><br>SKILLS:<br><br><br>📌 Languages & Frameworks: JavaScript, TypeScript, C#, .NET, ASP.NET, PHP, Python, Go, Rust, Ruby, Java<br><br>
-📌 Front-End: React, Vue, Angular, Next.js, Nuxt.js<br><br>
-📌 Back-End: Node.js, Express, Nest.js, Laravel, Symfony, Flask, Django, FastAPI, Spring Boot<br><br>
-📌 Blockchain: Bitcoin, Ethereum, Solana, Solidity, Web3, Smart Contract<br><br>
-📌 Databases: MySQL, PostgreSQL, MongoDB, DynamoDB<br><br>
-📌 DevOps: Amazon Web Services (AWS), Docker, Kubernetes, Redis<br><br>
-📌 Project Management Tools: Jira, Asana, Trello<br><br>
-📌 Testing: Unit Testing, End-to-End Testing<br><br><br><br><br>WHEN WORKING WITH ME, YOU CAN EXPECT:<br><br>✅ A commitment to excellence: I take pride in delivering high-quality work that meets and exceeds your expectations.<br><br>✅ Clear communication: I understand the importance of staying in touch and keeping you informed every step of the way.<br><br>✅ Timely delivery: I respect deadlines and will work diligently to ensure that your project is completed on time.<br><br>✅ Attention to detail: I am meticulous in my work, paying close attention to every detail. I’m also very good at taking notes of everything that is important.<br><br>✅ A Team Spirit approach: I’m team player and I believe that great things are not built by just single person. I’m very collaborative with every stakeholder or team member.<br><br><br><br>If that sounds well to you - let’s talk then 😉
+💫 About Me:
+
+I create high-quality software and I’m loving it 💫
+
+Seasoned Senior Software Engineer with a proven track record of delivering robust and innovative solutions. Strong foundation across both front-end and back-end development, along with growing expertise in AI/ML systems and data-driven applications.
+
+Experienced in building scalable platforms, integrating AI-powered features (LLMs, RAG pipelines, real-time inference), and delivering end-to-end solutions across web, cloud, and intelligent systems.
+
+SKILLS:
+
+📌 Languages & Frameworks: JavaScript, TypeScript, C#, .NET, ASP.NET, PHP, Python, Go, Rust, Ruby, Java
+
+📌 Front-End: React, Vue, Angular, Next.js, Nuxt.js
+
+📌 Back-End: Node.js, Express, Nest.js, Laravel, Symfony, Flask, Django, FastAPI, Spring Boot
+
+📌 AI / ML:
+LLMs, RAG pipelines, prompt engineering, vector databases, embeddings, real-time AI integrations, OpenAI APIs, LangChain, data processing & model integration
+
+📌 Blockchain: Bitcoin, Ethereum, Solana, Solidity, Web3, Smart Contract
+
+📌 Databases: MySQL, PostgreSQL, MongoDB, DynamoDB
+
+📌 DevOps: Amazon Web Services (AWS), Docker, Kubernetes, Redis
+
+📌 Project Management Tools: Jira, Asana, Trello
+
+📌 Testing: Unit Testing, End-to-End Testing
+
+WHEN WORKING WITH ME, YOU CAN EXPECT:
+
+✅ A commitment to excellence
+✅ Clear communication
+✅ Timely delivery
+✅ Attention to detail
+✅ Strong collaboration and team mindset
+
+If that sounds good — let’s talk 😉
 
 
 **Languages and Tools:**
